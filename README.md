@@ -1,1 +1,1 @@
-https://github.com/yihanbin/hanbinlee.github.io.git
+https://github.com/yihanbin/hanbinlee.com.git
